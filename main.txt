@@ -1,0 +1,17 @@
+1:  -sT            || Transmission Control Protocol
+2:  --script -vuln || automate system and vulnerability scans
+3:  -S             || Spoof source address
+4:  -PA            || TCP ACK Ping
+5:  -PS            || TCP SYN Ping 
+6:  -PU            || UDP Ping 
+7:  -PE            || ICMP Echo Ping
+8:  -PO            || IP Protocol Ping
+9:  -PP            || ICMP Timestamp Ping
+10: -PM            || ICMP Address Mask Ping
+11:  -sY            || SCTP INIT/COOKIE-ECHO scans
+12: http-headers   || HTTP headers configured on the webserver    
+13: -A             || Aggressive scan
+14: -sX            || Xmas scan 	
+15: -sO            ||Ip protocol scan 
+16: -O             || OS Detection
+17; -sF            || TCP FIN 
